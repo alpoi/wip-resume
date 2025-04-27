@@ -6,11 +6,11 @@ Highly motivated and experienced Platform Engineer with a strong background in b
 
 ## Skills & Technologies
 
-- **Languages:** Go, C#, Python, Java, Rust, TypeScript (Backend & Frontend)
-- **Infrastructure as Code (IaC):** Terraform, CloudFormation
-- **Databases:** MongoDB, DynamoDB, Redis, SQL / RDS, Milvus
-- *Software Development Life Cycle (SDLC):* Git (VCS), Jira (Agile, Scrum), CI/CD (GitHub actions, AWS Codepipeline), Unit Testing (including pytest, xunit), Integration Testing (including testcontainers), 
-- **Other Technologies:** Elasticsearch, AWS (Lambda, ECS, etc.), Elastic APM, OpenTelemetry (Observability), Temporal (Orchestration), k6, Docker
+- **Languages:** Go, C#, Python, Java, Rust, TypeScript (Backend & Frontend)
+- **Infrastructure as Code (IaC):** Terraform, CloudFormation
+- **Databases:** MongoDB, DynamoDB, Redis, SQL / RDS, Milvus
+- **Software Development Life Cycle (SDLC):** Git (VCS), Jira (Agile, Scrum), CI/CD (GitHub actions, AWS Codepipeline), Unit Testing (including pytest, xunit), Integration Testing (including testcontainers),
+- **Other Technologies:** Elasticsearch, AWS (Lambda, ECS, etc.), Elastic APM, OpenTelemetry (Observability), Temporal (Orchestration), k6, Docker
 
 ---
 
