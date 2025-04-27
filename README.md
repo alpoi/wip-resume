@@ -9,7 +9,8 @@ Highly motivated and experienced Platform Engineer with a strong background in b
 - **Languages:** Go, C#, Python, Java, Rust, TypeScript (Backend & Frontend)
 - **Infrastructure as Code (IaC):** Terraform, CloudFormation
 - **Databases:** MongoDB, DynamoDB, Redis, SQL / RDS, Milvus
-- **Other Technologies:** Elasticsearch, AWS (Lambda, ECS, etc.), Elastic APM, OpenTelemetry, Temporal, k6, CI/CD (GitHub Actions), Docker
+- *Software Development Life Cycle (SDLC):* Git (VCS), Jira (Agile, Scrum), CI/CD (GitHub actions, AWS Codepipeline), Unit Testing (including pytest, xunit), Integration Testing (including testcontainers), 
+- **Other Technologies:** Elasticsearch, AWS (Lambda, ECS, etc.), Elastic APM, OpenTelemetry (Observability), Temporal (Orchestration), k6, Docker
 
 ---
 
@@ -25,6 +26,7 @@ Highly motivated and experienced Platform Engineer with a strong background in b
 - Configured logging and telemetry platform with Elastic APM and OpenTelemetry, creating reusable libraries for simplified adoption.
 - Designed and implemented ECS container healthcheck libraries with an extensible interface to support custom conditions.
 - Represented Xapien at industry conferences (Elasticon & Temporal Replay) showcasing technical expertise and fostering community engagement.
+- Took the lead in Agile processes, including 2 week sprints, estimations, backlog grooming, and retros.
 
 **Xapien** - **Systems and Infrastructure Engineer** (May 2023 - December 2024)
 
@@ -32,7 +34,8 @@ Highly motivated and experienced Platform Engineer with a strong background in b
 - Spearheaded the adoption of Terraform for faster and more streamlined deployments, migrating legacy components from a monolithic CloudFormation stack to modular Terraform with independent versioning.
 - Managed the deployment and maintenance of Fluenci (NLP pipeline) utilizing custom AMIs optimized for rapid spin-up times, including GPU and Inferentia based models.
 - Contributed significantly to the open source Photon address parsing service by migrating from integrated Elasticsearch 5 to a dedicated Elasticsearch 8 cluster on Elastic Cloud, optimizing performance for read-only workloads using k6 load testing.
-- Rebuilt a cache access service, replacing an AWS Lambda interface with a low-latency Go API capable of handling over 1 million Transactions Per Minute (TPM).
+- Rebuilt a cache access service, replacing an AWS Lambda interface with a low-latency Go API capable of- handling over 1 million Transactions Per Minute (TPM).
+- Configured alerting using OpsGenie (and later Incident.io) and participated in the on-call rotation, triaging priority incidents
 
 **Xapien** - **Technical Test Engineer** (May 2022 – May 2023)
 
